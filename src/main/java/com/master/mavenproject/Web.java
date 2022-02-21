@@ -14,6 +14,7 @@ public class Web {
 		Select sel=new Select(null);}
 @BeforeSuite
 public void method() {
-	}
+System.out.println();	}
+
 
 }
